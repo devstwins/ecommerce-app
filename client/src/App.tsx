@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const App = () => {
-	return <div>Hello App</div>;
+  return <div className="bg-gray-600">Hello App</div>;
 };
 
 export default App;
