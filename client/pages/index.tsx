@@ -1,3 +1,7 @@
-export default function Home() {
-  return <div>Hello in Next</div>;
-}
+import React from 'react';
+
+const Home: React.FC = () => {
+	return <div>Hello From Next</div>;
+};
+
+export default Home;
